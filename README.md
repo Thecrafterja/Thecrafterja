@@ -1,3 +1,3 @@
-:computer: Passionate software developer from :germany:
+:computer: Passionate software developer from Germany
 
 What should I write here?...
